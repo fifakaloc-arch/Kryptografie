@@ -8,14 +8,14 @@ Each assignment is stored in a separate Python file.
 
 Assignments
 
-    Task 1 – task_01.py
-    Task 2 – task_02.py
-    Task 3 – task_03.py
-    Task 4 – task_04.py
-    Task 5 – task_05.py
-    Task 6 – task_06.py
-    Task 7 – task_07.py
-    Task 8 – task_08.py
+    Task 1 – task_1.py
+    Task 2 – task_2.py
+    Task 3 – task_3.py
+    Task 4 – task_4.py
+    Task 5 – task_5.py
+    Task 6 – task_6.py
+    Task 7 – task_7.py
+    Task 8 – task_8.py
 
 About
 
